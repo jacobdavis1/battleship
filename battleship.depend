@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1706320908 source:c:\users\jacob davis\documents\projects\_codeblocks projects\battleship\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"OceanGrid.h"
+
+1706308499 c:\users\jacob davis\documents\projects\_codeblocks projects\battleship\include\oceangrid.h
+	<vector>
+	<random>
+	"GridRow.h"
+
+1706320999 source:c:\users\jacob davis\documents\projects\_codeblocks projects\battleship\src\oceangrid.cpp
+	"OceanGrid.h"
+	<iostream>
+	<random>
+	<algorithm>
+
+1706284597 source:c:\users\jacob davis\documents\projects\_codeblocks projects\battleship\src\gridrow.cpp
+	"GridRow.h"
+
+1706307398 c:\users\jacob davis\documents\projects\_codeblocks projects\battleship\include\gridrow.h
+	"GridSpace.h"
+	<vector>
+
+1706308683 c:\users\jacob davis\documents\projects\_codeblocks projects\battleship\include\gridspace.h
+
+1706321098 source:c:\users\jacob davis\documents\projects\_codeblocks projects\battleship\src\gridspace.cpp
+	"GridSpace.h"
+
